@@ -1,4 +1,4 @@
-### Our project is a mini network management toolkit which allows its users to perform some network related functions and monitoring activity. The point of such a toolkit is to ease the pain of managing the network administrators so that they would not need large and complex softwares just to perform some basic housekeeping.
+#### Our project is a mini network management toolkit which allows its users to perform some network related functions and monitoring activity. The point of such a toolkit is to ease the pain of managing the network administrators so that they would not need large and complex softwares just to perform some basic housekeeping.
 - Some features of our toolkit are:
   - Fetching the system information.
   - Fetching the Interface Table and the Routing table of the machine.
