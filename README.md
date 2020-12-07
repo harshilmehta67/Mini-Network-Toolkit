@@ -7,8 +7,16 @@
   - Testing whether an IP address or a set of IP addresses are active or unreachable
   - Tracing the path taken by a packet during its journey to the provided machine
 
+Now, to run this project you'll need a python version 3+, and then pip3 after installing python.
+
 Firstly, to install all the dependencies, you need to have a version of python pip(python3:pip3 used here)
 
 ``` pip3 install -r requirements.txt ```
 
-After installing all the dependencies, the main file is + [MiniNetworkToolkit.py](https://github.com/harshilmehta67/Mini-Network-Toolkit/MiniNetworkToolkit.py)
+After installing all the dependencies, the main file is [MiniNetworkToolkit.py](https://github.com/harshilmehta67/Mini-Network-Toolkit/MiniNetworkToolkit.py)
+
+To run this file, 
+
+``` sudo python3 MiniNetworkToolkit.py ``` 
+
+#The project is up and running with a nice GUI!
