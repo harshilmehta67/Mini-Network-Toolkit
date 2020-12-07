@@ -11,7 +11,7 @@
 
   ``` sudo apt update ```
 
-2. Now, to run this project you'll need a python version 3+. Then to download pip you need to run
+2. Now, to run this project you'll need a [python](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu) version 3+. Then to download pip you need to run
 
   ``` sudo apt install python3-pip```
 
