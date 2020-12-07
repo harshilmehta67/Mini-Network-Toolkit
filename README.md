@@ -20,6 +20,7 @@
   ``` pip3 install -r requirements.txt ```
 
 4. Also to properly link the _python-tkinter_, run this
+
   ``` sudo apt-get install python3-tk ```
 
 5. After installing all the dependencies, the main file is [MiniNetworkToolkit.py](https://github.com/harshilmehta67/Mini-Network-Toolkit/blob/main/MiniNetworkToolkit.py).To run this file, 
