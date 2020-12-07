@@ -8,4 +8,5 @@ Our project is a mini network management toolkit which allows its users to perfo
   - Tracing the path taken by a packet during its journey to the provided machine
 
 Firstly, to install all the dependencies, you need to have a version of python pip(python3:pip3 used here)
+
 ``` pip3 install -r requirements.txt ```
